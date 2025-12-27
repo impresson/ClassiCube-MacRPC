@@ -12,3 +12,6 @@ A discord rich presence plugin for ClassiCube.
 
 
 Unzip the archive into your ClassiCube directory. Make sure the Discord.dll/.so file is in the plugins folder and discord_game_sdk.dll/.so is in the same folder as your game executable.
+
+Made by Vocane
+Ported by impresson
